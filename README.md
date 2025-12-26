@@ -144,6 +144,13 @@ The dataset contains airline passenger information with attributes such as:
 This project demonstrates how raw airline data can be transformed into actionable insights using Power BI.  
 The structured analytics storyline ensures clarity, accuracy, and decision-making value.
 
+# Dashboard screenshots
+
+<img width="1456" height="812" alt="Screenshot 2025-12-26 143129" src="https://github.com/user-attachments/assets/d7414b86-2a48-4b35-a39c-4a1f21ecfa24" />
+<img width="1457" height="779" alt="Screenshot 2025-12-26 143143" src="https://github.com/user-attachments/assets/a3152840-0d98-4276-be8f-7d690aea7ed6" />
+<img width="1459" height="772" alt="Screenshot 2025-12-26 143159" src="https://github.com/user-attachments/assets/91e7674f-6d26-45b4-a40e-1ee4a60349e9" />
+<img width="1408" height="772" alt="Screenshot 2025-12-26 143214" src="https://github.com/user-attachments/assets/f928cf03-9392-43e6-bc83-baec2554128b" />
+
 ---
 
 ## 👤 Author
