@@ -1,6 +1,6 @@
 # ✈️ Airline Passenger Analytics Dashboard (Power BI)
 
-## 📌 Project Overview
+## Project Overview
 This project focuses on analyzing airline passenger data using **Power BI**.  
 The objective is to transform raw airline data into **meaningful insights** through data cleaning, analysis, and interactive dashboards.
 
@@ -12,7 +12,7 @@ The dashboard helps understand:
 
 ---
 
-## 🧭 Project Storyline (End-to-End Flow)
+## 🧭 Project Storyline
 
 This project follows a structured data analytics storyline, starting from raw data and ending with actionable insights.
 
